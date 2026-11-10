@@ -19,7 +19,7 @@
 
 <!-- ───────────── About ───────────── -->
 <div align="center">
-  <img id="about" src="https://capsule-render.vercel.app/api?type=rounded&color=0:c9b6ff,100:f3c4e8&height=60&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="About Me" />
+  <img id="about" src="https://capsule-render.vercel.app/api?type=soft&color=0:c9b6ff,100:f3c4e8&height=60&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="About Me" />
 </div>
 
 <table align="center">
@@ -56,7 +56,7 @@ const oocumu = {
 
 <!-- ───────────── Goals ───────────── -->
 <div align="center">
-  <img id="goals" src="https://capsule-render.vercel.app/api?type=rounded&color=0:d8bdf5,100:f3c4e8&height=60&section=header&text=%F0%9F%8E%AF%20This%20Semester&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="This Semester" />
+  <img id="goals" src="https://capsule-render.vercel.app/api?type=soft&color=0:d8bdf5,100:f3c4e8&height=60&section=header&text=%F0%9F%8E%AF%20This%20Semester&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="This Semester" />
 </div>
 
 <br/>
@@ -68,7 +68,7 @@ const oocumu = {
 
 <!-- ───────────── Stack ───────────── -->
 <div align="center">
-  <img id="stack" src="https://capsule-render.vercel.app/api?type=rounded&color=0:e6c1ee,100:ffd6e0&height=60&section=header&text=%F0%9F%9B%A0%20Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="Tech Stack" />
+  <img id="stack" src="https://capsule-render.vercel.app/api?type=soft&color=0:e6c1ee,100:ffd6e0&height=60&section=header&text=%F0%9F%9B%A0%20Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="Tech Stack" />
 
 <br/><br/>
 
@@ -87,7 +87,7 @@ const oocumu = {
 
 <!-- ───────────── Stats ───────────── -->
 <div align="center">
-  <img id="stats" src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffd6e0,100:c9b6ff&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="GitHub Stats" />
+  <img id="stats" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e0,100:c9b6ff&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="GitHub Stats" />
 
 <br/><br/>
 
