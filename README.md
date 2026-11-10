@@ -18,6 +18,7 @@
 <br/>
 
 <!-- ───────────── About ───────────── -->
+
 <div align="center">
   <img id="about" src="https://capsule-render.vercel.app/api?type=soft&color=0:c9b6ff,100:f3c4e8&height=60&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="About Me" />
 </div>
@@ -51,18 +52,6 @@ const oocumu = {
 </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ───────────── Goals ───────────── -->
-<div align="center">
-  <img id="goals" src="https://capsule-render.vercel.app/api?type=soft&color=0:d8bdf5,100:f3c4e8&height=60&section=header&text=%F0%9F%8E%AF%20This%20Semester&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="This Semester" />
-</div>
-
-<br/>
-
-> 📅 **학기 프로젝트** — 16주 동안 꾸준히 커밋하고, 끝까지 완성해서 배포하기  
-> 🔐 **웹 보안 기초** — 개념부터 탄탄하게 다지기
 
 <br/>
 
