@@ -18,7 +18,6 @@
 <br/>
 
 <!-- ───────────── About ───────────── -->
-<br/>
 <div align="center">
   <img id="about" src="https://capsule-render.vercel.app/api?type=soft&color=0:c9b6ff,100:f3c4e8&height=60&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="About Me" />
 </div>
@@ -26,7 +25,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-<br/>
+
 ```js
 const oocumu = {
   role: "CS Student 🎓",
