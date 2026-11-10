@@ -76,11 +76,15 @@ const oocumu = {
 <br/>
 
 
+<!-- ───────────── Stats ───────────── -->
 <div align="center">
+  <img id="stats" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e0,100:c9b6ff&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="GitHub Stats" />
+<br/><br/>
+ 
 ✨ **Thanks for visiting!** ✨
-
+ 
 <a href="#about"><img src="https://img.shields.io/badge/↑_Back_to_Top-c9b6ff?style=flat-square" /></a>
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,50:f3c4e8,100:c9b6ff&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
