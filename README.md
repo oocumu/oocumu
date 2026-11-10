@@ -22,6 +22,8 @@
   <img id="about" src="https://capsule-render.vercel.app/api?type=soft&color=0:c9b6ff,100:f3c4e8&height=60&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="About Me" />
 </div>
 
+<br/>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
@@ -72,17 +74,6 @@ const oocumu = {
 </div>
 
 <br/>
-
-<!-- ───────────── Stats ───────────── -->
-<div align="center">
-  <img id="stats" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e0,100:c9b6ff&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=oocumu&show_icons=true&hide_border=true&bg_color=0,0,0,0&title_color=8b5cf6&icon_color=ec4899&text_color=6b5b95" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oocumu&layout=compact&hide_border=true&bg_color=0,0,0,0&title_color=8b5cf6&text_color=6b5b95" />
-
-<br/><br/>
 
 ✨ **Thanks for visiting!** ✨
 
