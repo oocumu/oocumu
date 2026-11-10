@@ -60,7 +60,7 @@ const oocumu = {
 <div align="center">
   <img id="stack" src="https://capsule-render.vercel.app/api?type=soft&color=0:e6c1ee,100:ffd6e0&height=60&section=header&text=%F0%9F%9B%A0%20Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="Tech Stack" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -75,6 +75,8 @@ const oocumu = {
 
 <br/>
 
+
+<div align="center">
 ✨ **Thanks for visiting!** ✨
 
 <a href="#about"><img src="https://img.shields.io/badge/↑_Back_to_Top-c9b6ff?style=flat-square" /></a>
