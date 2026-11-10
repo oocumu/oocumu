@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" viewBox="0 0 480 290">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c9b6ff"/><stop offset="1" stop-color="#f3c4e8"/></linearGradient>
+<clipPath id="c"><rect width="480" height="290" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="480" height="290" fill="#ffffff"/>
+<rect width="480" height="58" fill="url(#g)"/>
+<circle cx="440" cy="250" r="90" fill="#f7f2ff"/>
+</g>
+<rect x="0.5" y="0.5" width="479" height="289" rx="18" fill="none" stroke="#e7defc"/>
+<g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<text x="24" y="36" font-size="15" font-weight="700" fill="#fff" letter-spacing="3">STUDENT ID</text>
+<text x="456" y="36" font-size="11" font-weight="600" fill="#fff" text-anchor="end" letter-spacing="1.5" opacity=".9">GITHUB UNIV.</text>
+<rect x="24" y="80" width="96" height="120" rx="12" fill="#f5f0ff" stroke="#e7defc"/>
+<circle cx="72" cy="122" r="20" fill="#d9caff"/>
+<path d="M38 200 a34 30 0 0 1 68 0 z" fill="#d9caff"/>
+<g font-size="9" font-weight="600" fill="#a79bc4" letter-spacing="1.5">
+<text x="148" y="92">NAME</text><text x="148" y="130">MAJOR</text><text x="148" y="168">FOCUS</text><text x="360" y="130">YEAR</text>
+</g>
+<g font-size="15" font-weight="600" fill="#3b2d63">
+<text x="148" y="110">oocumu</text><text x="148" y="148">Computer Science</text><text x="148" y="186">Frontend · Security</text><text x="360" y="148">3rd</text>
+</g>
+<rect x="24" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="28" y="226" width="3" height="28" fill="#4c3b7a"/><rect x="32" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="34" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="37" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="39" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="43" y="226" width="3" height="28" fill="#4c3b7a"/><rect x="47" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="49" y="226" width="3" height="28" fill="#4c3b7a"/><rect x="53" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="56" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="60" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="63" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="66" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="71" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="73" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="77" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="80" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="83" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="85" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="89" y="226" width="3" height="28" fill="#4c3b7a"/><rect x="94" y="226" width="3" height="28" fill="#4c3b7a"/><rect x="100" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="104" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="107" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="109" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="114" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="119" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="122" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="126" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="129" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="133" y="226" width="3" height="28" fill="#4c3b7a"/><rect x="137" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="140" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="144" y="226" width="3" height="28" fill="#4c3b7a"/><rect x="150" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="152" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="157" y="226" width="1" height="28" fill="#4c3b7a"/><rect x="159" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="164" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="169" y="226" width="2" height="28" fill="#4c3b7a"/><rect x="172" y="226" width="3" height="28" fill="#4c3b7a"/>
+<text x="24" y="270" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10" fill="#a79bc4" letter-spacing="2">NO. 2026-OOCUMU</text>
+<text x="456" y="268" font-size="11" font-weight="600" fill="#b9a3f5" text-anchor="end">✦ github.com/oocumu</text>
+</g>
+</svg>
