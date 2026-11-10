@@ -57,6 +57,7 @@ const oocumu = {
 <br/>
 
 <!-- ───────────── Stack ───────────── -->
+<br/>
 <div align="center">
   <img id="stack" src="https://capsule-render.vercel.app/api?type=soft&color=0:e6c1ee,100:ffd6e0&height=60&section=header&text=%F0%9F%9B%A0%20Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="Tech Stack" />
 
@@ -76,7 +77,6 @@ const oocumu = {
 <br/>
 
 
-<!-- ───────────── Stats ───────────── -->
 <div align="center">
   <img id="stats" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e0,100:c9b6ff&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=55" alt="GitHub Stats" />
 <br/><br/>
